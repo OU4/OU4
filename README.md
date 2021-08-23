@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OU4
-- 👀 I’m interested in managing launching Product
-- 🌱 I’m currently learning R
+- 👀 I’m interested in managing & launching Product
 - 💞️ I’m looking to collaborate with someone wnat to build a community 
 - 📫 How to reach me @c00rr
 
